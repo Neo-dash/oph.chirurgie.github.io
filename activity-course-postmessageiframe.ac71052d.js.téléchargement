@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["activity-course-postmessageiframe"],{VBTp:function(e,n){window.addEventListener("focus",function(){window.parent.postMessage("theia_message_focus","*")},!0),window.addEventListener("blur",function(){window.parent.postMessage("theia_message_blur","*")},!0)}},[["VBTp","runtime"]]]);
